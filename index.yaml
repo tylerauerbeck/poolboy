@@ -2,33 +2,13 @@ apiVersion: v1
 entries:
   poolboy:
   - apiVersion: v2
-    appVersion: 0.7.1
+    appVersion: 0.7.0
     created: "2021-04-12T22:43:40.609386605Z"
     description: A Helm chart for poolboy
     digest: 1f9b18ebad8b4e96c72c144663cb982e232a499cb884172deb1ad59504990af9
     name: poolboy
     type: application
     urls:
-    - https://github.com/tylerauerbeck/poolboy/releases/download/poolboy-0.7.3/poolboy-0.7.3.tgz
-    version: 0.7.3
-  - apiVersion: v2
-    appVersion: 0.7.1
-    created: "2021-04-12T22:39:14.205929979Z"
-    description: A Helm chart for poolboy
-    digest: 4b5ce29a74007e75e3deb617275cf01c788d93c34d9cd84eb7c21b3d0dfd8d8e
-    name: poolboy
-    type: application
-    urls:
-    - https://github.com/tylerauerbeck/poolboy/releases/download/poolboy-0.7.2/poolboy-0.7.2.tgz
-    version: 0.7.2
-  - apiVersion: v2
-    appVersion: 0.7.1
-    created: "2021-04-12T21:31:03.651921388Z"
-    description: A Helm chart for poolboy
-    digest: 96f344d9e0bf76875be421d2ddb66e102b462854b2a395bf4bb07c4de501b9f0
-    name: poolboy
-    type: application
-    urls:
-    - https://github.com/tylerauerbeck/poolboy/releases/download/poolboy-0.7.1/poolboy-0.7.1.tgz
-    version: 0.7.1
+    - https://github.com/tylerauerbeck/poolboy/releases/download/poolboy-0.7.0/poolboy-0.7.0.tgz
+    version: 0.7.0
 generated: "2021-04-12T22:43:40.609397505Z"
